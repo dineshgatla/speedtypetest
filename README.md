@@ -7,3 +7,6 @@ Developed an application that measuring time he took to complete a given paragra
 ●	A displayed time that user took in the UI using JavaScript event listeners once user clicked on submit button, Did form validations for the incomplete paragraph.
 
 Technologies used: HTML, CSS, JS, REST API Calls, Bootstrap 
+
+
+visit: https://dineshgatla.github.io/speedtypetest/
